@@ -10,6 +10,7 @@ Este repositorio contiene las soluciones a los retos propuestos por [midudev](ht
 
 ## 🕹️ Challenges
 
-|   #   | Challenge |         Solution         |
-| :---: | :-------: | :----------------------: |
-|  01   | 🎯 El reto | [JS](./src/challenge01/) |
+|   #   |    Challenge    |         Solution         |
+| :---: | :-------------: | :----------------------: |
+|  01   |    🎯 El reto    | [JS](./src/challenge01/) |
+|  02   | 👨🏼‍💻 Mini Compiler | [JS](./src/challenge02/) |
