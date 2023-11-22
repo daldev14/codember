@@ -15,11 +15,11 @@ Ejemplo de la lista:
 ```
 Cada línea indica, separado, por: `,` la política de la clave y la clave misma.
 
-La política de la clave especifica el número mínimo y máximo de veces que un carácter dado debe aparecer para que la clave sea válida. Por ejemplo, `2-4 f` significa que la clave debe ==contener f al menos 2 veces y como máximo 4 veces.==
+La política de la clave especifica el número mínimo y máximo de veces que un carácter dado debe aparecer para que la clave sea válida. Por ejemplo, `2-4 f` significa que la clave debe contener `f` al menos 2 veces y como máximo 4 veces.
 
 Sabiendo esto, en el ejemplo anterior, hay 2 claves válidas:
 
-La segunda clave, `zzzsg`, no lo es; ==contiene 3 veces la letra z, pero necesita al menos 4.== Las primeras y terceras claves son válidas: contienen la cantidad adecuada de `f` y `h`, respectivamente, según sus políticas.
+La segunda clave, `zzzsg`, no lo es; contiene 3 veces la letra `z`, pero necesita al menos 4. Las primeras y terceras claves son válidas: contienen la cantidad adecuada de `f` y `h`, respectivamente, según sus políticas.
 
 ## ** Tu desafío: **
 
