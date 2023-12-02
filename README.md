@@ -10,8 +10,9 @@ Este repositorio contiene las soluciones a los retos propuestos por [midudev](ht
 
 ## 🕹️ Challenges
 
-|   #   |           Challenge            |         Solution         |
-| :---: | :----------------------------: | :----------------------: |
-|  01   |           🎯 El reto            | [JS](./src/challenge01/) |
-|  02   |        👨🏼‍💻 Mini Compiler         | [JS](./src/challenge02/) |
-|  02   | 🔐 El Desafío del Cifrado Espía | [JS](./src/challenge03/) |
+|   #   |              Challenge              |          Solution          |
+| :---: | :---------------------------------: | :------------------------: |
+|  01   |              🎯 El reto              | [Code](./src/challenge01/) |
+|  02   |           👨🏼‍💻 Mini Compiler           | [Code](./src/challenge02/) |
+|  03   |   🔐 El Desafío del Cifrado Espía    | [Code](./src/challenge03/) |
+|  04   | 👾 Hackers dañan sistema de archivos | [Code](./src/challenge04/) |
