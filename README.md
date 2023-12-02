@@ -16,3 +16,4 @@ Este repositorio contiene las soluciones a los retos propuestos por [midudev](ht
 |  02   |           👨🏼‍💻 Mini Compiler           | [Code](./src/challenge02/) |
 |  03   |   🔐 El Desafío del Cifrado Espía    | [Code](./src/challenge03/) |
 |  04   | 👾 Hackers dañan sistema de archivos | [Code](./src/challenge04/) |
+|  05   |        ❓	 El problema final         | [Code](./src/challenge05/) |
